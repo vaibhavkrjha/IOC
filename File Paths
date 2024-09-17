@@ -10,4 +10,9 @@ C:\Users\%USERNAME%\Downloads\nmap-7.94-setup.exe
 C:\Program Files (x86)\Nmap\nmap.exe
 C:\Users\%USERNAME%\Downloads\mimikatz_trunk\x64\mimikatz.exe
 C:\Users\backupexec\Downloads\x64\mimikatz.exe
+C:\programdata\advanced_port_scanner_2.5.3869 (1).exe
+C:\users\xxxxx\appdata\local\temp\advanced_port_scanner_2.5.3869 (1).tmp
+C:\users\xxxxx\appdata\local\temp\advanced_port_scanner.exeC:\programdata\locker.exe
+C:\Windows\System32\vssadmin.exe delete shadows /all /quiet
+C:\ProgramData\SharpShares.exe
 
