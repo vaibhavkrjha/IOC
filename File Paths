@@ -15,4 +15,23 @@ C:\users\xxxxx\appdata\local\temp\advanced_port_scanner_2.5.3869 (1).tmp
 C:\users\xxxxx\appdata\local\temp\advanced_port_scanner.exeC:\programdata\locker.exe
 C:\Windows\System32\vssadmin.exe delete shadows /all /quiet
 C:\ProgramData\SharpShares.exe
+C:\Windows\system32\SrvLog.exe
+C:\Users\<user>\AppData\Local\microsoft\windows\srvhosts.exe
+C:\Users\<user>\AppData\Roaming\microsoft\windows\srvhostt.exe
+C:\windows\srvhost.exe
+C:\Users\<user>\appdata\roaming\microsoft\windows\srvhost.exe
+C:\ProgramData\OneDrive.exe
+$appdata\Microsoft\Windows\srvhostt.exe
+$appdata\Microsoft\Windows\srvhost.exe
+C:\Users\User\AppData\Local\microsoft\windows\srvhosts.exe
+C:\ProgramData\update\XenAllPasswordPro.exe
+C:\ProgramData\update\report.html
+$user\desktop\rsockstun.exe
+C:\ProgramData\resolver.exe
+$user\desktop\lockbitlite.exe
+$user\desktop\lb3.exe
+C:\ProgramData\lock.exe
+$user\desktop\x64\mimikatz.exe
+C:\Users\User\Documents\srvhost.exe
+C:\microsoft\windows\srchost.exe
 
