@@ -34,4 +34,6 @@ C:\ProgramData\lock.exe
 $user\desktop\x64\mimikatz.exe
 C:\Users\User\Documents\srvhost.exe
 C:\microsoft\windows\srchost.exe
+%APPDATA%\Roaming\Microsoft\BDE UI Launcher\wtsapi32.dll
+%APPDATA%\Roaming\Thumbs.ini
 
